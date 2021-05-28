@@ -1,0 +1,36 @@
+{
+  "manifest_version": 2,
+
+  "name": "orf.at Darkmode",
+  "version": "0.5",
+  "description": "Darkmode für news.orf.at.",
+  "icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
+
+          "browser_action": {
+            "default_popup": "popup.html"
+          },
+
+  "content_scripts": [{
+    "css": ["style.css"],
+    "js": ["script.js"],
+    "matches": ["*://news.orf.at/*",
+                "*://orf.at/*",
+                "*://news.orf.at/*",
+                "*://wien.orf.at/*",
+                "*://noe.orf.at/*",
+                "*://burgenland.orf.at/*",
+                "*://steiermark.orf.at/*",
+                "*://kaernten.orf.at/*",
+                "*://tirol.orf.at/*",
+                "*://vorarlberg.orf.at/*",
+                "*://salzburg.orf.at/*",
+                "*://ooe.orf.at/*",
+                "*://oesterreich.orf.at/*",
+                "*://sport.orf.at/*",
+                "*://science.orf.at/*",
+                "*://debatte.orf.at/*"
+              ]
+  }]
+}
