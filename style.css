@@ -1,0 +1,551 @@
+.content.front{
+  background-color: #141414 !important;
+}
+
+body{
+  color: #f7f7f7 !important;
+  background-color: #141414 !important;
+
+}
+
+.ticker-story.active-item .ticker-story-headline a{
+  color: #f7f7f7 !important;
+}
+
+.news{
+  background: #141414 !important;
+}
+
+.tw-view-unconfigured[data-v-2b87bde5]{
+  background-color: #141414 !important;
+
+}
+
+.ticker-oon-settings .ticker-ressort-special-headline{
+  background-color: #141414 !important;
+}
+
+.ticker-ressort-title{
+  color: #f0f0f0 !important;
+}
+.top-area-wrapper{
+ background-color: #141414 !important;
+}
+.news .network-navigation{
+  background: #414141 !important;
+}
+
+.ticker-story-wrapper{
+  background-color: #141414 !important;
+}
+
+.share-text{
+  color: white !important;
+}
+
+.tw-settings-content{
+  background-color: #2c2c2c !important;
+
+}
+
+.tw-option-button{
+  color: #f7f7f7 !important;
+}
+
+.tw-option-button.checked{
+  color: #8fa6bf !important;
+}
+
+.bula-window a{
+  background-color: #2c2c2c !important;
+}
+
+.story-wrapper{
+  background-color: #141414 !important;
+  color: #f7f7f7 !important;
+}
+
+.story-lead{
+  background-color: #141414 !important;
+  color: #f7f7f7 !important;
+}
+
+.story-meta{
+  color: #b1b1b1 !important;
+}
+
+.page-footer .back-to-front{
+  background-color: #141414 !important;
+
+}
+
+nav.more-to-read-stories.leaving{
+  background-color: #141414 !important;
+}
+
+.more-to-read:after{
+  background: #141414 !important;
+}
+
+.ticker-story-close{
+  background: #555555 !important;
+}
+
+.share-dialog .share-button{
+  background-color: #141414 !important;
+}
+
+.ss.science{
+  background: #141414 !important;
+  background-color: #141414 !important;
+
+}
+
+.ss.sport {
+  background: #141414 !important;
+  background-color: #141414 !important;
+}
+
+.oon-sm-activation-window .oon-sm-activation-header button{
+  background-color: #141414 !important;
+}
+
+.story-wrapper .embed:not(.sm-activated) blockquote, .ticker-story-text .embed:not(.sm-activated) blockquote{
+  border: #2c2c2c !important;
+}
+
+.fact{
+  background: #202020 !important;
+}
+
+.buttons-overview[data-v-65e336d2]{
+  background-color: #141414 !important;
+}
+
+.content.corona{
+  background-color: #141414 !important;
+}
+
+.buttons-overview .overview-total-diff .total-diff-list li[data-v-65e336d2]{
+  background-color: #1b1b1b !important;
+}
+
+.buttons-overview .overview-item .sparkline-wrapper .number[data-v-65e336d2] {
+  text-shadow: black !important;
+}
+
+
+.chart-wrapper {
+    background-color: #1b1b1b !important;
+}
+
+.tableau .tableau-tab {
+    background-color: #1b1b1b !important;
+  }
+
+.tableau-detail-wrapper table{
+  background-color: #1b1b1b !important;
+}
+
+.tableau-detail-wrapper table{
+  background-color: #1b1b1b !important;
+}
+
+#news-videolane{
+  background-color: #141414 !important;
+}
+
+.videolane-scroll-indicator-container .videolane-scroll-indicator{
+  background-color: #414141 !important;
+}
+
+.oon-grid .oon-grid-top{
+  background-color: #141414 !important;
+  border-bottom: 1vw solid #141414 !important;
+}
+
+.oon-grid-item{
+  background-color: #414141 !important;
+}
+
+.oon-grid-overflow .oon-grid-texts-container-mobile .oon-grid-texts-headline h1{
+  color: white !important;
+}
+
+.oon-grid-overflow .oon-grid-texts-container-mobile .oon-grid-texts-flag, .oon-grid-overflow .oon-grid-texts-container-mobile .oon-grid-is-live, .oon-grid-overflow .oon-grid-texts-container-mobile .oon-grid-is-breaking-news{
+  color: #f0f0f0 !important;
+}
+
+.flag-ticker-mobile .flag-ticker-mobile-content{
+  background-color: #414141 !important;
+}
+
+a{
+  color: white !important;
+}
+
+.flag-ticker-mobile .flag-ticker-mobile-type{
+  color: white !important;
+}
+
+.ticker-story+.ticker-story:before{
+  background-color: #141414 !important;
+}
+
+#news-videolane{
+  background-color: #141414 !important;
+}
+
+.bula-window{
+  background-color: #141414 !important;
+}
+
+.tw-header{
+  background-color: #414141 !important;
+  color: white !important;
+}
+
+.ticker-story-headline>a{
+  color: white !important;
+}
+
+.flag-ticker-mobile .flag-ticker-mobile-type{
+  border-left: 9.5vw solid #ac0f07 !important;
+}
+
+.videolane-player-textbox-container{
+  background-color: #414141 !important;
+}
+
+.videolane-metadata-text{
+  color: white !important;
+}
+
+.videolane-player-close{
+  background-color: #414141 !important;
+  color: white !important;
+}
+
+.story-wrapper .story-content .story-story>.image img, .story-wrapper .story-content .story-story>.ws-imagewrapper>.image img, .story-wrapper .story-content .oon-slideshow-list>.image img{
+  background-color: #141414 !important;
+}
+
+.more-to-read .arrow{
+  background-color: #414141 !important;
+}
+
+.oon-sm-activation-window .oon-sm-activation-body button{
+  background: white !important;
+  color: #141414 !important;
+}
+
+.oon-sm-activation-window{
+  border: 4px solid #414141 !important;
+}
+
+.oon-sm-privacy a.oon-sm-info{
+  background-color: #414141 !important;
+  border-radius: 3px !important;
+}
+
+.oon-sm-privacy .oon-sm-icon{
+  background-color: #ffffff00;
+}
+
+.bula-window .tw-header .bw-title{
+  background-color: #141414 !important;
+}
+
+.ticker-ressort.zib100 .ticker-ressort-title>span{
+  background-color: #172d43 !important;
+}
+
+.bw-weather-icon{
+  background-color: #172d43 !important;
+}
+
+.tw-header{
+  padding: 5px 5px 5px 5px !important;
+}
+
+.tes-option-button{
+  background-color: #16406b !important;
+}
+
+.story-wrapper .es-explanation{
+  background-color: #414141 !important;
+  border-radius: 5px !important;
+}
+
+.story-wrapper .story-content .story-story>.image img, .story-wrapper .story-content .story-story>.ws-imagewrapper>.image img, .story-wrapper .story-content .oon-slideshow-list>.image img{
+  background-color: #141414 !important;
+}
+
+.more-to-read .more-to-read-stories .more-to-read-title.in-grid .logo:before, .more-to-read .more-to-read-stories .more-to-read-title.in-grid .logo:after{
+  color: white !important;
+}
+
+.arrow{
+  background-color: #414141 !important;
+}
+
+.arrow:hover{
+  background-color: #141414 !important;
+}
+
+.orfon-target-logo{
+  width: 0px !important;
+  height: 0px !important;
+  padding: 39px 101px 0px 0px;
+  background-size: auto;
+  background: url('https://svgshare.com/i/WQs.svg')
+
+}
+
+.weather .dropdown-menu{
+  background-color: #141414 !important;
+
+}
+
+.weather .dropdown-menu>[role=button].selected{
+  color: #70a1d8;
+}
+
+.taglist .story-wrapper .story-lead h1{
+  color: white !important;
+}
+
+.storylist-item .content{
+  background-color: #141414 !important;
+}
+
+.separator{
+  background: #141414 !important;
+}
+
+.load-more button{
+  color: #141414 !important;
+}
+
+.storylist-item .content .textbox .teaser .quicknote{
+  background: #414141 !important;
+}
+
+.ss.science .highlightGrid, .ss.science .promoGrid{
+  background-color: #141414 !important;
+}
+
+.promoGrid .slick-slide .title h2{
+  color: white !important;
+  background-color: #414141 !important;
+}
+
+.promoGrid .slick-dots li.slick-active button:before{
+  background-color: #ffffff00 !important;
+}
+
+.ss.science .storylist-item .tag-title{
+  background-color: #414141 !important;
+}
+
+#lineGrid{
+  background-color: #141414 !important;
+}
+
+#lineGrid .lineGridStory a{
+  background-color: #414141 !important;
+  color: white !important;
+}
+
+.video-carousel.swipable{
+  background-color: #141414 !important;
+}
+
+.menu .navigation .nav-entry{
+  background-color: #414141 !important;
+}
+
+.socialhighlights-fanfacts{
+  background-color: #141414 !important;
+}
+
+.breaking-wrapper{
+  background-color: #141414 !important;
+}
+
+.match-listitem.no-stream .match-panel .scoreboard{
+  background-color: #141414 !important;
+}
+
+.match-listitem.no-stream .match-panel .scoreboard .team .team-name-text{
+  color: white !important;
+}
+
+.match-listitem.no-stream .match-panel .scoreboard>.result .state{
+  color: white !important;
+}
+
+.match-listitem.no-stream .match-panel .scoreboard>.result{
+  color: white !important;
+}
+
+.socialhighlights-fanfacts .region.fanfacts{
+  background-color: #414141 !important;
+}
+
+.more-to-read .more-to-read-stories .more-to-read-stories-list{
+  background-color: #141414 !important;
+}
+
+.more-to-read .scrollable-pane{
+  background-color: #141414 !important;
+}
+
+.tes-item-link{
+  background-color: #414141 !important;
+}
+
+.dsp-selector{
+  background-color: #414141 !important;
+  border-radius: 5px;
+}
+
+#app .area{
+  background-color: #414141 !important;
+  border-radius: 5px !important;
+}
+
+#app .message{
+  border-radius: 5px !important;
+}
+
+.ss.newsspecial21.corona21 .scrollable-lane-container.corona-data, .ss.newsspecial21.corona21 .front-opener .front-opener-overlay, .ss.newsspecial21.corona21 .scrollable-lane-container .lane-item-content .lane-item-bottom-area {
+
+  background-color: #414141 !important;
+}
+
+.ss.newsspecial21.corona21 .storylist .story-list-item{
+  background-color: #414141 !important;
+  color: white !important;
+}
+
+.ss.newsspecial21.corona21 .storylist .story-list-item .story-list-text .story-list-title h2, .ss.newsspecial21.corona21 .storylist .story-list-item .story-list-text .story-list-teaser, .ss.newsspecial21.corona21 .front-opener .front-opener-overlay .front-opener-teaser, .ss.newsspecial21.corona21 .front-opener .front-opener-overlay .front-opener-title{
+  color: white !important;
+}
+
+.ss.newsspecial21.corona21 .storylist .story-list-item .story-list-text .story-list-flag, .ss.newsspecial21.corona21 .front-opener .front-opener-overlay .front-opener-flag{
+  color: #cccccc !important;
+}
+
+.ss.newsspecial21.corona21 .page-footer{
+  border-top: none;
+}
+
+
+.ss.newsspecial21.corona21 .scrollable-lane-container.corona-data .lane-item{
+  background: #141414 !important;
+  border-radius: 6px !important;
+}
+
+.ss.newsspecial21.corona21 .scrollable-lane-container.corona-data .lane-item {
+  background: #414141 !important;
+}
+
+.ss.newsspecial21.corona21 .scrollable-lane-container.corona-data, .ss.newsspecial21.corona21 .storylist .story-list-item.wide-item, .ss.newsspecial21.corona21 .storylist .story-list-item{
+  border-radius: 6px !important;
+}
+
+.ss.newsspecial21.corona21 .scrollable-lane-container .lane-item-content .lane-item-bottom-area .teaser.has-link, .ss.newsspecial21.corona21 .scrollable-lane-container .lane-item-content .lane-item-bottom-area .teaser{
+  color: white !important;
+}
+
+.buttons-overview .overview-title{
+  color: white !important;
+}
+
+.buttons-overview .overview-item, .tableau-detail-wrapper table td:not(:first-child), .tableau-detail-wrapper table th, .tableau-detail-wrapper table td {
+  background-color: #414141 !important;
+}
+
+.austria .tableau, .explainer .explainer-text{
+  background: #414141 !important;
+}
+
+main, .ss #story{
+  background-color: #141414 !important;
+}
+
+.communityNav, .networkNavigation, .ss #story.storybox .hero{
+  background: #414141 !important;
+}
+
+#sideNavigation, .ss .forumMetaBar{
+  background-color: #414141 !important;
+  border-radius: 4px !important;
+}
+
+.ss #story.storybox .text::after{
+  background: none !important;
+}
+
+.ss .forumMetaBar .disclaimerToggle{
+  color: white !important;
+}
+
+.ss #content .buttonRow a.normalButton{
+  background: #414141 !important;
+  border-radius: 3px !important;
+}
+
+.ss #forumDisclaimer{
+  background-color: #2a2a2a !important;
+}
+
+.ss .postings .posting .replies{
+  border-left: 8px solid #466199 !important;
+}
+
+#orfonTarget{
+  width: 0px !important;
+  height: 0px !important;
+  padding: 39px 101px 0px 0px;
+  background-size: auto;
+  background: url('https://svgshare.com/i/WQs.svg')
+}
+
+.videolane-item:not(.is-playing) .videolane-item-title-wrapper{
+  background-color: #414141 !important;
+}
+
+.videolane-item{
+  background-color: #414141 !important;
+}
+
+.videolane-item .videolane-arrow-up{
+  border-bottom: 15px solid #ffffff !important;
+}
+
+.sitemapMobile{
+  background: #414141eb !important;
+}
+
+.ss a.normalButton, .ss input.normalButton{
+  background: #2a2a2a !important;
+}
+
+.navitem, .bula-content, .corona-widget .dashboard-title, .morning-report-skkm-table table{
+  background-color: #414141 !important;
+}
+
+.navitem.active .title, .navitem.active .title span{
+  color: white !important;
+}
+
+.morning-report-skkm-table td:nth-child(n+2), .morning-report-skkm-table th:nth-child(n+2), .morning-report-skkm-table td:first-child, .morning-report-skkm-table th:first-child {
+{
+  background-color: #727272 !important;
+}
+
+.morning-report-skkm-table table[data-v-61cfecd0]{
+  color: black !important;
+}
